@@ -1,10 +1,15 @@
 # Hi, I'm Gulshan 👋
 
 🔭 I'm currently building web apps, AI-powered tools, and browser extensions
+
 📸 Snapchat Lens Creator — designing AR filters & interactive lenses
+
 🌱 Learning: Advanced AI integrations, API development
+
 💡 Interests: AI/ML, Automation, AR/Filters, Full-Stack Development
+
 🛠️ Skills: JavaScript, Python, APIs, Chrome Extensions, AI Tools Integration, Snapchat Lens Studio
+
 📫 Reach me: [your email/website]
 
 ### Tech Stack
