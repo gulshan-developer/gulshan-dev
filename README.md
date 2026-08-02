@@ -10,7 +10,7 @@
 
 🛠️ Skills: JavaScript, Python, APIs, Chrome Extensions, AI Tools Integration, Snapchat Lens Studio
 
-📫 Reach me: [your email/website]
+📫 Reach me: gulshandeveloper1@gmail.com
 
 ### Tech Stack
 
