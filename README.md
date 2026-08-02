@@ -8,6 +8,7 @@
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 </div>
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gulshandeveloper1@gmail.com) 
 
