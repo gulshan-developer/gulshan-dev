@@ -1,9 +1,11 @@
 # 💫 About Me:
-# Hi, I'm Gulshan 👋<br><br>🔭 I'm currently building web apps, AI-powered tools, and browser extensions<br><br>📸 Snapchat Lens Creator — designing AR filters & interactive lenses<br><br>🌱 Learning: Advanced AI integrations, API development<br><br>💡 Interests: AI/ML, Automation, AR/Filters, Full-Stack Development<br><br>🛠️ Skills: JavaScript, Python, APIs, Chrome Extensions, AI Tools Integration, Snapchat Lens Studio<br><br>📫 Reach me: gulshandeveloper1@gmail.com
-
+# Hi, I'm Gulshan 👋<br><br>🔭 I'm currently building web apps, AI-powered tools, and browser extensions<br><br>📸 Snapchat Lens Creator — designing AR filters & interactive lenses<br><br>🌱 Learning: Advanced AI integrations, API development<br><br>💡 Interests: AI/ML, Automation, AR/Filters, Full-Stack Development<br><br>🛠️ Skills: JavaScript, Python, APIs, Chrome Extensions, AI Tools Integration, Snapchat Lens Studio<br><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gulshandeveloper1@gmail.com) 
+
+📫 Reach me: gulshandeveloper1@gmail.com
+
 
 <!-- Snake Game Repo View -->
 
